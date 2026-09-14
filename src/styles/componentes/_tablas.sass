@@ -1,8 +1,4 @@
 
-@use 'sass:math'
-@use 'sass:color'
-@use '../variables' as *
-@use '../reset/mixins' as *
 table
   *
     line-height: $heading-line-height
@@ -11,8 +7,7 @@ table
     color: $color-tipografia
     font-size: 0.8em
     background-color: $color-sistema-f
-    padding: math.div($base-spacing, 2) $base-spacing
-    font-weight: $base-bold-font-weight
+    padding: $base-spacing /2 $base-spacing
   
 .tabla-a
   overflow-x: auto
@@ -30,7 +25,6 @@ table
     font-size: $h4-font-size
 
   tbody
-    display: table-row-group
 
   &.color-primario
     thead
@@ -63,7 +57,7 @@ table
     min-width: 700px
   tr
     &:nth-child(even)
-      background-color: color.adjust($color-sistema-f, $alpha: -0.6)
+      background-color: transparentize($color-sistema-f, 0.6)
 
   td, th
     border: none
