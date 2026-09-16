@@ -112,7 +112,7 @@
           span Pirámide de Maslow
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/t2-22-mob.svg", alt="En la figura se detalla la jerarquización de las necesidades humanas en cinco niveles, autorrealización, reconocimiento, afiliación y afecto, necesidades de seguridad y necesidades fisiológicas.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/t2-22.svg", alt="En la figura se detalla la jerarquización de las necesidades humanas en cinco niveles, autorrealización, reconocimiento, afiliación y afecto, necesidades de seguridad y necesidades fisiológicas.")
-        figcaption <strong>Nota.</strong> SENA, (2026).
+
       
     separador
 
@@ -235,7 +235,6 @@
           span Clasificaciones de los clientes actuales
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/9-mob.svg", alt="En la figura se detalla las clasificaciones de los clientes: según su vigencia, según su volumen de compra, según su frecuencia de compra y según su nivel de satisfacción.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/9.svg", alt="En la figura se detalla las clasificaciones de los clientes: según su vigencia, según su volumen de compra, según su frecuencia de compra y según su nivel de satisfacción.")
-        figcaption <strong>Nota.</strong> SENA, (2026).
     
     h4(data-aos='zoom-in-right').mb-4.mb-lg-5
       span.etiqueta-title Clientes según su vigencia

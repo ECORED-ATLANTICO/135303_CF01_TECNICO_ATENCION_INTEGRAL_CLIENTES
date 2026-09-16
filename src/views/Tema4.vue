@@ -95,7 +95,6 @@
           span Prestación servicio al cliente
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/4-mob.svg", alt="En la figura se detalla como es el proceso de atención al cliente, comercialización de productos y ventas de servicios.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/4.svg", alt="En la figura se detalla como es el proceso de atención al cliente, comercialización de productos y ventas de servicios.")
-        figcaption <strong>Nota.</strong> SENA, (2026).
 
     p.mb-5 En la cotidianidad se tienden a confundir los conceptos y consideramos que en las organizaciones el tema de servicio al cliente y atención al cliente es únicamente responsabilidad de los colaboradores de dicha área, pero esto es un gran error, consideremos la siguiente situación:
 
@@ -135,7 +134,6 @@
           span Diferenciación entre óptima y deficiente servicio al cliente
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/t4-14-mob.svg", alt="Se detalla en la figura la óptima atención en servicio al cliente: solicitud de producto, acuerdo de entrega y pago de producto; y deficiente servicio al cliente: producto no procesado, producto no despachado y producto no entregado.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/t4-14.svg", alt="Se detalla en la figura la óptima atención en servicio al cliente: solicitud de producto, acuerdo de entrega y pago de producto; y deficiente servicio al cliente: producto no procesado, producto no despachado y producto no entregado.")
-        figcaption <strong>Nota.</strong> SENA, (2026).
 
     .fullwidth-bg.fullwidth-bg--3
     .row.z-2
@@ -151,7 +149,7 @@
           span Protocolo de servicio al cliente
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/5-mob.svg", alt="El protocolo de servicio al cliente se detalla de la siguiente manera: - Título: protocolo para atención y servicio al cliente. - Definición: es la guía para que los colaboradores conozcan las directrices. Política: información y acompañamiento por parte de la organización en el proceso que soliciten. ")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/5.svg", alt="El protocolo de servicio al cliente se detalla de la siguiente manera: - Título: protocolo para atención y servicio al cliente. - Definición: es la guía para que los colaboradores conozcan las directrices. Política: información y acompañamiento por parte de la organización en el proceso que soliciten. ")
-        figcaption <strong>Nota.</strong> SENA, (2026).
+
 
     .row.justify-content-center.mb-6
       .col-xl-10
@@ -281,7 +279,6 @@
           span Triángulo del servicio
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/t4-31-mob.svg", alt="El triángulo del servicio está compuesto por la Compañía, los empleados y los clientes.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/t4-31.svg", alt="El triángulo del servicio está compuesto por la Compañía, los empleados y los clientes.")
-        figcaption <strong>Nota.</strong> SENA, (2026).
 
     .row.justify-content-center
       .col-xl-10
@@ -409,7 +406,7 @@
                   h5 Canales de atención al cliente
                   p.mb-0 Medios de atención disponibles para que los tiendan puedan canalizar sus preguntas, quejas, o cualquier interacción que requieran sobre un producto o servicio.
                 .col-sm-auto.p-lg-4
-                  a.boton.bgr_3.me-3.text-white(:href="obtenerLink('downloads/Canales_atención_cliente.pdf')" target="_blank" type="application/pdf")
+                  a.boton.bgr_3.me-3.text-white(:href="obtenerLink('downloads/Canales_atencion_cliente.pdf')" target="_blank" type="application/pdf")
                     span Descargar
                     i.fas.fa-file-download
 

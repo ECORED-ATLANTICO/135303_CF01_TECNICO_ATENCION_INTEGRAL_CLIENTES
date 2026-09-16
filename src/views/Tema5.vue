@@ -71,7 +71,6 @@
           span Factores de riesgo
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/t5-2-mob.svg", alt="Los factores de riesgo son: mecánicos, químicos, eléctricos, físico-químicos, biológicos, públicos, psicosociales, ambientales, ergonómicos.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/t5-2.svg", alt="Los factores de riesgo son: mecánicos, químicos, eléctricos, físico-químicos, biológicos, públicos, psicosociales, ambientales, ergonómicos.")
-        figcaption <strong>Nota.</strong> SENA, (2026).
     
     .row.justify-center
       .col-12.col-xl-10(data-aos="zoom-in-down")
@@ -147,7 +146,7 @@
           h5 Figura 9.
           span Tabla tipo matriz de riesgo
         img.mb-2(data-aos="fade-up", src="@/assets/curso/tema5/t5-4.svg", alt="El ejemplo de matriz de identificación de peligros se relaciona: Clasificación, efectos posibles, controles existentes, evaluación del riesgo, medidas de control y riesgo residual.")
-        figcaption Nota. SENA, (2026).
+
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-auto
@@ -163,9 +162,9 @@
         .col
           .row.justify-content-between.align-items-center
             .col-lg-8.mb-3.mb-sm-0
-              h4 Descargue el ejemplo de TABLA_TIPO_MATRIZ_DE_IDENTIFICACIÓN_DE_PELIGROS.
+              h4 Descargue el ejemplo de TABLA_TIPO_MATRIZ_DE_IDENTIFICACION_DE_PELIGROS.
             .col-sm-auto.p-lg-4
-              a.boton.bgr_3.me-3.text-white(:href="obtenerLink('downloads/FORMATO_MATRIZ_DE_IDENTIFICACIÓN_DE_PELIGROS.xlsx')" target="_blank")
+              a.boton.bgr_3.me-3.text-white(:href="obtenerLink('downloads/TABLA_TIPO_MATRIZ_DE_RIESGO.xlsx')" target="_blank")
                   span Descargar
                   i.fas.fa-link
 

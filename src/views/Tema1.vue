@@ -19,11 +19,10 @@
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
       span Ejemplos con la relación entre dato e información
-    .row.justify-center.mb-5(data-aos="fade-up")
+    .row.justify-center.align-items-center.mb-5(data-aos="fade-up")
       .col-12.col-xl-8
         .tabla-a.color-primario
           table
-            caption <strong>Nota.</strong> SENA, (2026).
             thead
               tr
                 th.colr.w-200px Dato
@@ -68,7 +67,7 @@
           span Interacción entre emisor y receptor
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/t1-2-mob.svg", alt="En la figura de interacción se detalla los componentes básicos que son: la disponibilidad, la finalidad, generación de conocimiento, ser confiable y precisa.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/t1-2.svg", alt="En la figura de interacción se detalla los componentes básicos que son: la disponibilidad, la finalidad, generación de conocimiento, ser confiable y precisa.")
-        figcaption <strong>Nota.</strong> SENA, (2026).
+
 
     separador
     

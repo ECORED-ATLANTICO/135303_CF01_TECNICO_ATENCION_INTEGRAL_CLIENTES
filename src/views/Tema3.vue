@@ -172,7 +172,7 @@
           div.p-5
             h3 Protocolos de atención a personas con discapacidad
             p Algunas consideraciones para tener en cuenta en el momento de la atención al cliente, con personas con algún tipo de discapacidad.
-            a.boton.bgr_3.me-3.text-white(:href="obtenerLink('downloads/Protocolo_Atencion_cliente.pdf')" target="_blank" type="application/pdf")
+            a.boton.bgr_3.me-3.text-white(:href="obtenerLink('downloads/Protocolo_atencion_cliente.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
 
